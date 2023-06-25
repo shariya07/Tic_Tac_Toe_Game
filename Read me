@@ -1,1 +1,24 @@
-Python code for Tic Tac  Toe game
+Project: Tic Tac Toe Game Development
+
+Description: Developed a Python-based implementation of the classic game "Tic Tac Toe" as a personal project. 
+The game utilizes various functions to input data from the user, display the game board, and implement the rules and validations of the game.
+
+Responsibilities:
+- Used Python programming language to write the game code, implementing key functionalities such as user input, game board display, and game rules.
+- Developed functions to handle user input, validate moves, and update the game board accordingly.
+- Designed an intuitive user interface to display the game board and prompt users for their moves.
+- Implemented game logic to detect winning conditions, handle ties, and declare the winner.
+- Conducted thorough testing and debugging to ensure the game's stability and correct behavior.
+
+Technologies and Techniques Used:
+- Programming Language: Python
+- Functions for input handling, game board display, and rule implementation
+
+Achievements:
+- Successfully developed a functional implementation of the classic "Tic Tac Toe" game using Python.
+- Demonstrated proficiency in Python programming, particularly in utilizing functions for user input, game board display, and rule implementation.
+- Implemented robust validation and rule enforcement to ensure a fair and enjoyable gaming experience.
+- Created an interactive user interface that facilitated smooth gameplay and clear communication with players.
+
+This project showcased my skills in Python programming, function implementation, user input handling, and rule enforcement. 
+It highlighted my ability to transform a popular game concept into a functional application using core programming concepts and techniques.
